@@ -3,14 +3,13 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A77B6&center=true&vCenter=true&random=false&width=500&height=70&lines=Microservices+Architect" alt="Microservices Architect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A77B6&center=true&vCenter=true&random=false&width=500&height=70&lines=Microservices+Architect;NestJS+Developer;API+Designer;Backend+Specialist;Node.js+Expert;TypeScript+Enthusiast" alt="Backend Developer Skills" />
   </a>
 </div>
 
 <br/>
 
-<details>
-<summary><h2>Tech Stack & Tools</h2></summary>
+<h2>Tech Stack & Tools</h2>
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,11 +42,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-</details>
 
+### Current Backend Focus
+```javascript
+const currentFocus = {
+  architecture: ['Microservices', 'Event-Driven', 'Domain-Driven Design'],
+  technologies: ['Node.js', 'NestJS', 'TypeScript', 'Docker', 'Kubernetes'],
+  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+  messaging: ['RabbitMQ', 'Apache Kafka'],
+  patterns: ['CQRS', 'Repository Pattern', 'Factory Pattern', 'Adapter Pattern']
+};
+```
 
-<details>
-<summary><h2>GitHub Stats</h2></summary>
+<h2>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luka-md19&show_icons=true&theme=tokyonight&hide_border=true" alt="Luka-md19's GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-md19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
@@ -60,9 +67,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luka-md19&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="trophy" />
 </div>
-</details>
-
-
 
 <h2>Connect with me</h2>
 <p align="left">
@@ -79,9 +83,7 @@
 
 <h2>Contributions</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake.svg" />
 </picture>
-
-

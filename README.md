@@ -1,5 +1,5 @@
-<h1 align="center">Malik Hamed Alkhzendar</h1>
-<h3 align="center">Backend Engineer | API Architect | Scalability Enthusiast</h3>
+<h1 align="center">Malik Alkhzendar</h1>
+<h3 align="center">Backend Engineer</h3>
 
 <div align="center">
   <a href="#">
@@ -43,17 +43,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Current Backend Focus
-```javascript
-const currentFocus = {
-  architecture: ['Microservices', 'Event-Driven', 'Domain-Driven Design'],
-  technologies: ['Node.js', 'NestJS', 'TypeScript', 'Docker', 'Kubernetes'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  messaging: ['RabbitMQ', 'Apache Kafka'],
-  patterns: ['CQRS', 'Repository Pattern', 'Factory Pattern', 'Adapter Pattern']
-};
-```
-
 <h2>GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luka-md19&show_icons=true&theme=tokyonight&hide_border=true" alt="Luka-md19's GitHub stats" height="170" />
@@ -81,9 +70,8 @@ const currentFocus = {
   </a>
 </p>
 
-<h2>Contributions</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Luka-md19/Luka-md19/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>

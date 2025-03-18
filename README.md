@@ -7,13 +7,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luka-md19&style=for-the-badge&color=0a77b6" alt="profile views" />
-  <a href="https://wakatime.com/@Luka-md19" target="_blank">
-    <img src="https://wakatime.com/badge/user/Luka-md19.svg?style=for-the-badge" alt="Wakatime stats" />
-  </a>
-</div>
-
 <br/>
 
 <details>
@@ -53,15 +46,6 @@
 </details>
 
 <details open>
-<summary><h2>Backend Expertise</h2></summary>
-
-### Specializations
-- **API Architecture**: RESTful API design, GraphQL, OpenAPI specifications
-- **Microservices**: Distributed systems design, service mesh, event-driven architecture
-- **Performance Optimization**: Caching strategies, database query optimization, async processing
-- **Security Implementation**: JWT, OAuth2.0, rate limiting, input validation
-- **High Availability**: Load balancing, failover strategies, circuit breakers
-- **Data Engineering**: ETL pipelines, real-time data processing, data warehousing
 
 ### Current Backend Focus
 ```javascript
@@ -91,34 +75,14 @@ const currentFocus = {
 </div>
 </details>
 
-<details>
-<summary><h2>Recent Projects</h2></summary>
 
-### API Gateway Microservice
-A central authentication and routing service handling request validation, rate limiting, and service discovery.
-```
-Tech Stack: NestJS, TypeScript, Redis, JWT, Docker
-```
-
-### Event-Driven Notification System
-A scalable notification system using event sourcing to handle email, SMS, and push notifications.
-```
-Tech Stack: Node.js, RabbitMQ, MongoDB, Redis, AWS SES/SNS
-```
-
-### Real-time Analytics Platform
-Backend for processing and analyzing high-volume data streams with dashboards for visualization.
-```
-Tech Stack: Node.js, Kafka, TimescaleDB, Socket.io, Grafana
-```
-</details>
 
 <h2>Connect with me</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/malik-hamed-alkhzendar-608978200/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:malekh387@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/Luka-md19" target="blank">
@@ -133,6 +97,4 @@ Tech Stack: Node.js, Kafka, TimescaleDB, Socket.io, Grafana
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a77b6,100:0a77b6&height=120&section=footer" />
-</div>
+

@@ -2,7 +2,9 @@
 <h3 align="center">Backend Engineer | API Architect | Scalability Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A77B6&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;API+Design+Specialist;Node.js+%26+NestJS+Expert;Microservices+Architect;Database+Wizard" alt="Typing SVG" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A77B6&center=true&vCenter=true&random=false&width=500&height=70&lines=Microservices+Architect" alt="Microservices Architect" />
+  </a>
 </div>
 
 <div align="center">
@@ -134,4 +136,3 @@ Tech Stack: Node.js, Kafka, TimescaleDB, Socket.io, Grafana
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a77b6,100:0a77b6&height=120&section=footer" />
 </div>
-

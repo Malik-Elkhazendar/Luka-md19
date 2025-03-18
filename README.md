@@ -45,19 +45,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </details>
 
-<details open>
-
-### Current Backend Focus
-```javascript
-const currentFocus = {
-  architecture: ['Microservices', 'Event-Driven', 'Domain-Driven Design'],
-  technologies: ['Node.js', 'NestJS', 'TypeScript', 'Docker', 'Kubernetes'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  messaging: ['RabbitMQ', 'Apache Kafka'],
-  patterns: ['CQRS', 'Repository Pattern', 'Factory Pattern', 'Adapter Pattern']
-};
-```
-</details>
 
 <details>
 <summary><h2>GitHub Stats</h2></summary>

@@ -1,0 +1,27 @@
+name: Push to GitHub Repository
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Push to GitHub
+        run: |
+          git remote add github-remote https://github.com/Luka-md19/Luka-md19.git
+          git push github-remote main -f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

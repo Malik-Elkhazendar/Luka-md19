@@ -22,9 +22,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka-md19&show_icons=true&locale=en&layout=compact" alt="Luka-md19" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Luka-md19" alt="Luka-md19" /></a></p>
 
-<h2>📊 Contributions</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luka-md19/Luka-md19/raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luka-md19/Luka-md19/raw/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://github.com/Luka-md19/Luka-md19/raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>

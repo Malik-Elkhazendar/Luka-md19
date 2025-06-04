@@ -45,16 +45,16 @@
 
 <h2>GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luka-md19&show_icons=true&theme=tokyonight&hide_border=true" alt="Luka-md19's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-md19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malik-Elkhazendar&show_icons=true&theme=tokyonight&hide_border=true" alt="Malik-Elkhazendar's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Elkhazendar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luka-md19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Elkhazendar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luka-md19&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Malik-Elkhazendar&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="trophy" />
 </div>
 
 <h2>Connect with me</h2>
@@ -65,7 +65,7 @@
   <a href="mailto:malekh387@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/Luka-md19" target="blank">
+  <a href="https://github.com/Malik-Elkhazendar" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
